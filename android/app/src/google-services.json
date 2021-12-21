@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "650228228379",
+      "project_id": "talk-78bbe",
+      "storage_bucket": "talk-78bbe.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:650228228379:android:f81a25bb52c24a2eff33be",
+          "android_client_info": {
+            "package_name": "com.dartvaders.talk"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "650228228379-9f44a1653drcbqmtj78tpfkd4l3ivram.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAV05aZUq_o1ie5Kuj-HeqetucS3F1Qiu8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "650228228379-9f44a1653drcbqmtj78tpfkd4l3ivram.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
